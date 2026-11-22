@@ -8,6 +8,8 @@ An original top-down 2D open-world crime game set in the coastal city of Nusa Ba
 
 Explore the city on foot and by car, steal cars, dodge traffic and pedestrians, raise a wanted level and outrun the police, complete three chained missions, fight with a pistol, and watch it all on a HUD with a live minimap. The game runs offline in a desktop browser from its own static files.
 
+Three chained missions: First Job ($400), Harbour Run ($800), and Bay Getaway ($1,500) — finish all three to win.
+
 Made for the make.fun bounty [Make GTA 6](https://make.fun/bounty/gta6-01).
 
 ## Run it
